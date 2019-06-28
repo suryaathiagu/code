@@ -21,7 +21,10 @@ public class samp {
 				else
 					System.out.print(i);
 			}
-				
+			else
+			{
+				System.out.print("-1");
+			}
 		}
 
 	}
